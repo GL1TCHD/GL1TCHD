@@ -14,13 +14,13 @@
 
 - 🌱 I’m currently learning **Reverse Engineering, Game Hacking, And Artificial Intelligence**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Murtaja-Albasti](https://github.com/Murtaja-Albasti)
+- 👨‍💻 All of my projects are available at [https://github.com/GL1TCHD](https://github.com/GL1TCHD)
 
 - 💬 Ask me about **react, python, vue.js, AI, multi-tasking programming**
 
 - 📫 How to reach me **Albasti1100@gmail.com**
 
-- ⚡ Fun fact **I love coffee more than my lovely cat 🤭**
+- ⚡ Fun fact **I love coffee more than my lovely catt 🤭**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
